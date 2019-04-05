@@ -22,9 +22,9 @@ Cheat sheets for quick learn and recall.
 
 ![pyspark](cheat-sheets/PySpark.png)
 
-![R-1](cheat-sheets/R_Studio_dplyr_and tidyr-1.png)
+![R-1](cheat-sheets/R_Studio_dplyr_and_tidyr-1.png)
 
-![R-2](cheat-sheets/R_Studio_dplyr_and tidyr-2.png)
+![R-2](cheat-sheets/R_Studio_dplyr_and_tidyr-2.png)
 
 <h2 id="data-visualization">Data Visualization</h2>
 
