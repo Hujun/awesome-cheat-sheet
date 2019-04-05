@@ -14,7 +14,7 @@ Cheat sheets for quick learn and recall.
 
 ![pandas-2](cheat-sheets/Pandas-2.png)
 
-![another Pandas cheat sheet](cheat-sheets/Pandas_Cheat_Sheet.pdf)
+[Another Pandas cheat sheet](cheat-sheets/Pandas_Cheat_Sheet.pdf)
 
 ![numpy](cheat-sheets/numpy.png)
 
@@ -22,9 +22,9 @@ Cheat sheets for quick learn and recall.
 
 ![pyspark](cheat-sheets/PySpark.png)
 
-![R-1](cheat-sheets/R Studio dplyr and tidyr-1.png)
+![R-1](cheat-sheets/R\ Studio\ dplyr\ and\ tidyr-1.png)
 
-![R-2](cheat-sheets/R Studio dplyr and tidyr-2.png)
+![R-2](cheat-sheets/R\ Studio\ dplyr\ and\ tidyr-2.png)
 
 <h2 id="data-visualization">Data Visualization</h2>
 
@@ -36,7 +36,7 @@ Cheat sheets for quick learn and recall.
 
 ![chart selection](cheat-sheets/chart-selection.jpeg)
 
-![css3](cheat-sheets/css3-cheat-sheet.pdf)
+[CSS3 Cheat Sheet](cheat-sheets/css3-cheat-sheet.pdf)
 
 
 
@@ -58,9 +58,9 @@ Cheat sheets for quick learn and recall.
 
 ![tcpip](cheat-sheets/tcpipt.gif)
 
-![apache](cheat-sheets/apache-quick-reference.pdf)
+[Apache Reference](cheat-sheets/apache-quick-reference.pdf)
 
-![htaccess](cheat-sheets/htaccess-cheat-sheet.pdf)
+[htaccess reference](cheat-sheets/htaccess-cheat-sheet.pdf)
 
 <h2 id="math">Mathmatics</h2>
 
