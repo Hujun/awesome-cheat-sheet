@@ -22,9 +22,9 @@ Cheat sheets for quick learn and recall.
 
 ![pyspark](cheat-sheets/PySpark.png)
 
-![R-1](cheat-sheets/R\ Studio\ dplyr\ and\ tidyr-1.png)
+![R-1](cheat-sheets/R_Studio_dplyr_and tidyr-1.png)
 
-![R-2](cheat-sheets/R\ Studio\ dplyr\ and\ tidyr-2.png)
+![R-2](cheat-sheets/R_Studio_dplyr_and tidyr-2.png)
 
 <h2 id="data-visualization">Data Visualization</h2>
 
@@ -48,7 +48,7 @@ Cheat sheets for quick learn and recall.
 
 ![tensorflow](cheat-sheets/tensorflow.png)
 
-![nn](cheat-sheets/Neural Networks.png)
+![nn](cheat-sheets/Neural_Networks.png)
 
 ![nn](cheat-sheets/neural_network_graph.png)
 
